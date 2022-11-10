@@ -1,0 +1,38 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Wordle 
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+Wordle: A game that takes a random word that the user will guess. It will say what letters are wrong or in the wrong place and vice versa.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+My game will randomize a word that the user will have to guess. The user will type in a five letter word. The game will indicate what letters are wrong, what letters are right but in the wrong place, and what letters are right and in the right place. The features it will have are different colors to indicate the different levels. When the user finally gets the word right, the word will be all green. 
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+TODO, if applicable
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+TODO, if applicable
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+I will make my game turn the letters into different colors to indicate whether the letter is right place and right letter, right letter but wrong place, and wrong letter and wrong place. 
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+I think I can accomplish being able to put indications to if the letter is in the right place or not, but also letting the user try another word if their previous word was wrong.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+I hope to accomplish a complete Wordle game where the user can keep trying to put in words if their previous words were not right. Hopefully, I can cross off the letters that were not right, too.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+I will need to figure out how to cross out the letters that are not in the word at all and researh how to do this. I will need to look into while/for loops more if I want to allow the user to keep on trying with their words. I also need to think about if I should limit the amount of tries the user has to figure out the word. 
